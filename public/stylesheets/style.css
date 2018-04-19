@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+}
+
+.bg {
+    background: url("../images/salad-2068220_1920.jpg") no-repeat center center fixed;
+    height: 100%;
+    padding-top: 70px;
+    /* Workaround for some mobile browsers */
+
+}
+
+.bgempty {
+    padding-top: 70px;
+}
+
+a.btn, button.btn {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
