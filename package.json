@@ -1,5 +1,5 @@
 {
-  "name": "TabelEase",
+  "name": "tableease",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -44,13 +44,16 @@
     "mysql": "^2.15.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
+    "pug": "^2.0.3",
     "rxjs": "^5.5.8",
+    "serve-favicon": "^2.5.0",
     "zone.js": "^0.8.19"
   },
   "devDependencies": {
     "@angular/cli": "^1.7.3",
     "@angular/compiler-cli": "^5.2.0",
     "@angular/language-service": "^5.2.0",
+    "@types/express": "^4.11.1",
     "@types/jasmine": "~2.8.3",
     "@types/jasminewd2": "~2.0.2",
     "@types/node": "~6.0.60",
